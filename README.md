@@ -1,11 +1,19 @@
-# TCP: TerminalCopilot 🤖⌨️
+<div align='center'>
+<h1>TCP: TerminalCopilot 🤖⌨️</h1h1>
+<h3></h3>
 
-Your AI-powered command line companion, built with **Unix philosophy** at its core.
+[中文版本](https://github.com/bingyang-lei/TerminalCopilot/blob/main/README_zh.md)
+</div>
 
+Your AI-powered command line companion.
+(Actually this README is mostly written by TCP)
+
+![tcp Demo](./photos/show2.gif)
+
+Built with **Unix philosophy** at its core, you can pass any content by pipeline.
 ![example](./photos/image.png)
-![tcp Demo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGQ5eHlqN3V2dWk2Z3B2dGJ6MG0yYzRzc3l4NHJvNnV2dW4xYjRzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26n6WjCA3ZRmQnRl6/giphy.gif)
 
-(To be honest, I admit this README is a little showy, and there are many features of TCP that need to be added or improved🥺)
+(To be honest, I admit this README is a little showy, and there are many features of TCP that need to be added or improved🥺, but ai feels this project good)
 ## 🌟 Features That Will Blow Your Terminal Away
 
 ### **AI Superpowers**
