@@ -3,7 +3,7 @@
 你的 AI 命令行伴侣。
 (this file is generated form `cat README | tcp`)
 
-![tcp Demo](./photos/show2.gif)
+![tcp Demo](./photos/show.gif)
 
 基于 **Unix 哲学** 构建，你可以通过管道传递任何内容。
 ![示例](./photos/image.png)

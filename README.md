@@ -8,9 +8,10 @@
 Your AI-powered command line companion.
 (Actually this README is mostly written by TCP)
 
-![tcp Demo](./photos/show2.gif)
+![tcp Demo](./photos/show.gif)
 
 Built with **Unix philosophy** at its core, you can pass any content by pipeline.
+
 ![example](./photos/image.png)
 
 (To be honest, I admit this README is a little showy, and there are many features of TCP that need to be added or improved🥺, but ai feels this project good)
